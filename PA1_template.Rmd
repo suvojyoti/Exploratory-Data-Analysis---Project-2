@@ -3,6 +3,7 @@ title: "PA1_template"
 author: "Suvojyoti Chowdhury"
 date: "February 7, 2016"
 output: html_document
+skeep_md: yes
 ---
 #Reproducible Research
 #======================

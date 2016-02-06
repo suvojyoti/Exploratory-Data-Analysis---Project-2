@@ -3,6 +3,7 @@ title: "PA1_template"
 author: "Suvojyoti Chowdhury"
 date: "February 7, 2016"
 output: html_document
+skeep_md: yes
 ---
 #Reproducible Research
 #======================
@@ -10,43 +11,8 @@ output: html_document
 ```r
 # Install and load required libraries
 library(timeDate)
-```
-
-```
-## Warning: package 'timeDate' was built under R version 3.2.3
-```
-
-```r
 library(lattice)
-```
-
-```
-## Warning: package 'lattice' was built under R version 3.2.3
-```
-
-```r
 library(dplyr)
-```
-
-```
-## Warning: package 'dplyr' was built under R version 3.2.3
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
 ```
 
 ```r
